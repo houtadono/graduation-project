@@ -1,0 +1,9 @@
+networkx
+pandas
+scikit-learn
+category-encoders
+seaborn
+matplotlib
+numpy
+pyyaml
+pydantic

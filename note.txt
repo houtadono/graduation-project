@@ -1,0 +1,14 @@
+Main Menu
+  ├── System Configuration
+      ├── Set IP & Port
+      ├── Model Settings & Retrain
+  ├── Monitoring & Analysis
+      ├── Live Network Data
+      ├── Prediction Details
+      ├── Prediction Graph
+  ├── Alerts & Response
+      ├── Dashboard Overview
+      ├── Alerts & Feedback
+  ├── Info & Support
+      ├── About
+      ├── Support
